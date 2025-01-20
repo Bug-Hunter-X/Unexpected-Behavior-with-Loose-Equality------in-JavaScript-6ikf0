@@ -1,0 +1,3 @@
+# JavaScript Loose Equality Bug
+
+This repository demonstrates a common JavaScript bug caused by the loose equality operator (`==`). Loose equality performs type coercion before comparison, leading to potentially unexpected results.  The example code shows how null and undefined values can be unexpectedly handled and compares the loose and strict equality operators.  The solution provides a correct and robust approach for comparison using strict equality.
